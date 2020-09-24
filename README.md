@@ -1,6 +1,6 @@
 # EVshield-Sorter-Bot
 This project utilizises simple color detection to sort blocks on a conveyor. The Arduino sketch utilizes the EV Shield libraries and kit.
-![Project Image](project-image-url)
+![Project Image](./Screenshot_20200923-202725_Messenger.jpg)
 
 > Open loop conveyor belt sorter. A demonstration of rapid prototyping. 
 
